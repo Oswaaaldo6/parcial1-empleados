@@ -5,7 +5,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import re
 
-DATA_URL = 'https://raw.githubusercontent.com/Oswaaaldo6/parcial1-empleados/master/Employees.csv'
+DATA_URL = 'https://raw.githubusercontent.com/Oswaaaldo6/parcial1-empleados/main/Employees.csv'
 
 st.title('PRIMER PARCIAL')
 
